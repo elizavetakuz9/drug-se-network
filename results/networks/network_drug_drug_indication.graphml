@@ -1,0 +1,2133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d1" for="node" attr.name="node_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="bipartite" attr.type="long"/>
+<graph edgedefault="undirected"><node id="pregabalin">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="apomorphine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="clobazam">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="zolpidem">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="bromocriptine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="nalbuphine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="tapentadol">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="pergolide">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="felbamate">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="fentanyl">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="hydromorphone">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="neostigmine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="venlafaxine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="ramelteon">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="tramadol">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="ropinirole">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="fosphenytoin">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="atomoxetine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="duloxetine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="naltrexone">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="temazepam">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="frovatriptan">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="pramipexole">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="tolcapone">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="lidocaine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="eletriptan">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="pilocarpine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="pyridostigmine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="fluvoxamine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="lamotrigine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="bupivacaine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="rivastigmine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="morphine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="reboxetine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="topiramate">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="clomipramine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="caffeine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="buspirone">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="desvenlafaxine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="mirtazapine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="paliperidone">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="gabapentin">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="amantadine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="buprenorphine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="bupropion">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="asenapine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="modafinil">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="galantamine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="rufinamide">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="amitriptyline">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="remifentanil">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="zolmitriptan">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="imipramine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="cabergoline">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="agomelatine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="naratriptan">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="rasagiline">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="clonidine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="isocarboxazid">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="doxepin">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="amoxapine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="sufentanil">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="zaleplon">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="triazolam">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="capsaicin">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="betahistine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="dihydrocodeine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="carbamazepine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="almotriptan">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="sumatriptan">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="mianserin">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="trazodone">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="nefazodone">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="pimozide">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="rotigotine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="zonisamide">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="vigabatrin">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="diflunisal">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="haloperidol">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="methylphenidate">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="rizatriptan">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="levetiracetam">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="diazepam">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="paroxetine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="amisulpride">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="nicotine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="quetiapine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="entacapone">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="ziconotide">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="milnacipran">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="risperidone">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="tetrabenazine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="tiagabine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="phenytoin">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="fluoxetine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="clonazepam">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="dihydroergotamine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="aripiprazole">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="riluzole">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="quazepam">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="acamprosate">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="tranylcypromine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="sertraline">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="alprazolam">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="oxycodone">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="butorphanol">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="maprotiline">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="scopolamine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="ziprasidone">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="lorazepam">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="donepezil">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="nortriptyline">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="citalopram">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="oxcarbazepine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="midazolam">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="loxapine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="zopiclone">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="olanzapine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<edge source="pregabalin" target="citalopram">
+  <data key="d2">1</data>
+</edge>
+<edge source="pregabalin" target="duloxetine">
+  <data key="d2">3</data>
+</edge>
+<edge source="pregabalin" target="paroxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="pregabalin" target="buspirone">
+  <data key="d2">1</data>
+</edge>
+<edge source="pregabalin" target="alprazolam">
+  <data key="d2">1</data>
+</edge>
+<edge source="pregabalin" target="capsaicin">
+  <data key="d2">1</data>
+</edge>
+<edge source="pregabalin" target="milnacipran">
+  <data key="d2">1</data>
+</edge>
+<edge source="pregabalin" target="lidocaine">
+  <data key="d2">1</data>
+</edge>
+<edge source="pregabalin" target="venlafaxine">
+  <data key="d2">1</data>
+</edge>
+<edge source="pregabalin" target="gabapentin">
+  <data key="d2">1</data>
+</edge>
+<edge source="apomorphine" target="ropinirole">
+  <data key="d2">1</data>
+</edge>
+<edge source="apomorphine" target="pramipexole">
+  <data key="d2">1</data>
+</edge>
+<edge source="apomorphine" target="amantadine">
+  <data key="d2">1</data>
+</edge>
+<edge source="apomorphine" target="entacapone">
+  <data key="d2">1</data>
+</edge>
+<edge source="apomorphine" target="tolcapone">
+  <data key="d2">1</data>
+</edge>
+<edge source="apomorphine" target="rasagiline">
+  <data key="d2">1</data>
+</edge>
+<edge source="apomorphine" target="rotigotine">
+  <data key="d2">1</data>
+</edge>
+<edge source="apomorphine" target="bromocriptine">
+  <data key="d2">1</data>
+</edge>
+<edge source="clobazam" target="felbamate">
+  <data key="d2">1</data>
+</edge>
+<edge source="clobazam" target="rufinamide">
+  <data key="d2">1</data>
+</edge>
+<edge source="clobazam" target="lorazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="clobazam" target="lamotrigine">
+  <data key="d2">1</data>
+</edge>
+<edge source="clobazam" target="topiramate">
+  <data key="d2">1</data>
+</edge>
+<edge source="clobazam" target="phenytoin">
+  <data key="d2">1</data>
+</edge>
+<edge source="clobazam" target="carbamazepine">
+  <data key="d2">1</data>
+</edge>
+<edge source="clobazam" target="clonazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="zolpidem" target="quazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="zolpidem" target="temazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="zolpidem" target="zaleplon">
+  <data key="d2">1</data>
+</edge>
+<edge source="zolpidem" target="triazolam">
+  <data key="d2">1</data>
+</edge>
+<edge source="zolpidem" target="zopiclone">
+  <data key="d2">1</data>
+</edge>
+<edge source="zolpidem" target="doxepin">
+  <data key="d2">1</data>
+</edge>
+<edge source="zolpidem" target="ramelteon">
+  <data key="d2">1</data>
+</edge>
+<edge source="bromocriptine" target="cabergoline">
+  <data key="d2">1</data>
+</edge>
+<edge source="bromocriptine" target="ropinirole">
+  <data key="d2">1</data>
+</edge>
+<edge source="bromocriptine" target="pramipexole">
+  <data key="d2">1</data>
+</edge>
+<edge source="bromocriptine" target="amantadine">
+  <data key="d2">2</data>
+</edge>
+<edge source="bromocriptine" target="entacapone">
+  <data key="d2">1</data>
+</edge>
+<edge source="bromocriptine" target="tolcapone">
+  <data key="d2">1</data>
+</edge>
+<edge source="bromocriptine" target="rasagiline">
+  <data key="d2">1</data>
+</edge>
+<edge source="bromocriptine" target="rotigotine">
+  <data key="d2">1</data>
+</edge>
+<edge source="nalbuphine" target="tapentadol">
+  <data key="d2">1</data>
+</edge>
+<edge source="nalbuphine" target="fentanyl">
+  <data key="d2">1</data>
+</edge>
+<edge source="nalbuphine" target="butorphanol">
+  <data key="d2">2</data>
+</edge>
+<edge source="nalbuphine" target="hydromorphone">
+  <data key="d2">1</data>
+</edge>
+<edge source="nalbuphine" target="caffeine">
+  <data key="d2">1</data>
+</edge>
+<edge source="nalbuphine" target="dihydrocodeine">
+  <data key="d2">1</data>
+</edge>
+<edge source="nalbuphine" target="diflunisal">
+  <data key="d2">1</data>
+</edge>
+<edge source="nalbuphine" target="tramadol">
+  <data key="d2">1</data>
+</edge>
+<edge source="nalbuphine" target="morphine">
+  <data key="d2">1</data>
+</edge>
+<edge source="tapentadol" target="fentanyl">
+  <data key="d2">1</data>
+</edge>
+<edge source="tapentadol" target="butorphanol">
+  <data key="d2">1</data>
+</edge>
+<edge source="tapentadol" target="hydromorphone">
+  <data key="d2">1</data>
+</edge>
+<edge source="tapentadol" target="caffeine">
+  <data key="d2">1</data>
+</edge>
+<edge source="tapentadol" target="dihydrocodeine">
+  <data key="d2">1</data>
+</edge>
+<edge source="tapentadol" target="diflunisal">
+  <data key="d2">1</data>
+</edge>
+<edge source="tapentadol" target="tramadol">
+  <data key="d2">1</data>
+</edge>
+<edge source="tapentadol" target="morphine">
+  <data key="d2">1</data>
+</edge>
+<edge source="pergolide" target="amantadine">
+  <data key="d2">1</data>
+</edge>
+<edge source="felbamate" target="fosphenytoin">
+  <data key="d2">1</data>
+</edge>
+<edge source="felbamate" target="levetiracetam">
+  <data key="d2">1</data>
+</edge>
+<edge source="felbamate" target="oxcarbazepine">
+  <data key="d2">1</data>
+</edge>
+<edge source="felbamate" target="diazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="felbamate" target="rufinamide">
+  <data key="d2">1</data>
+</edge>
+<edge source="felbamate" target="topiramate">
+  <data key="d2">2</data>
+</edge>
+<edge source="felbamate" target="lamotrigine">
+  <data key="d2">3</data>
+</edge>
+<edge source="felbamate" target="lorazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="felbamate" target="tiagabine">
+  <data key="d2">1</data>
+</edge>
+<edge source="felbamate" target="phenytoin">
+  <data key="d2">3</data>
+</edge>
+<edge source="felbamate" target="carbamazepine">
+  <data key="d2">3</data>
+</edge>
+<edge source="felbamate" target="clonazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="fentanyl" target="butorphanol">
+  <data key="d2">1</data>
+</edge>
+<edge source="fentanyl" target="oxycodone">
+  <data key="d2">1</data>
+</edge>
+<edge source="fentanyl" target="hydromorphone">
+  <data key="d2">2</data>
+</edge>
+<edge source="fentanyl" target="caffeine">
+  <data key="d2">1</data>
+</edge>
+<edge source="fentanyl" target="remifentanil">
+  <data key="d2">1</data>
+</edge>
+<edge source="fentanyl" target="buprenorphine">
+  <data key="d2">1</data>
+</edge>
+<edge source="fentanyl" target="dihydrocodeine">
+  <data key="d2">1</data>
+</edge>
+<edge source="fentanyl" target="diflunisal">
+  <data key="d2">1</data>
+</edge>
+<edge source="fentanyl" target="tramadol">
+  <data key="d2">1</data>
+</edge>
+<edge source="fentanyl" target="morphine">
+  <data key="d2">2</data>
+</edge>
+<edge source="hydromorphone" target="naltrexone">
+  <data key="d2">1</data>
+</edge>
+<edge source="hydromorphone" target="butorphanol">
+  <data key="d2">1</data>
+</edge>
+<edge source="hydromorphone" target="oxycodone">
+  <data key="d2">2</data>
+</edge>
+<edge source="hydromorphone" target="scopolamine">
+  <data key="d2">2</data>
+</edge>
+<edge source="hydromorphone" target="ziconotide">
+  <data key="d2">1</data>
+</edge>
+<edge source="hydromorphone" target="buprenorphine">
+  <data key="d2">2</data>
+</edge>
+<edge source="hydromorphone" target="clonidine">
+  <data key="d2">1</data>
+</edge>
+<edge source="hydromorphone" target="diflunisal">
+  <data key="d2">1</data>
+</edge>
+<edge source="hydromorphone" target="caffeine">
+  <data key="d2">2</data>
+</edge>
+<edge source="hydromorphone" target="remifentanil">
+  <data key="d2">1</data>
+</edge>
+<edge source="hydromorphone" target="dihydrocodeine">
+  <data key="d2">3</data>
+</edge>
+<edge source="hydromorphone" target="tramadol">
+  <data key="d2">1</data>
+</edge>
+<edge source="hydromorphone" target="morphine">
+  <data key="d2">3</data>
+</edge>
+<edge source="neostigmine" target="pyridostigmine">
+  <data key="d2">1</data>
+</edge>
+<edge source="venlafaxine" target="duloxetine">
+  <data key="d2">2</data>
+</edge>
+<edge source="venlafaxine" target="mianserin">
+  <data key="d2">1</data>
+</edge>
+<edge source="venlafaxine" target="agomelatine">
+  <data key="d2">1</data>
+</edge>
+<edge source="venlafaxine" target="tranylcypromine">
+  <data key="d2">1</data>
+</edge>
+<edge source="venlafaxine" target="trazodone">
+  <data key="d2">1</data>
+</edge>
+<edge source="venlafaxine" target="sertraline">
+  <data key="d2">2</data>
+</edge>
+<edge source="venlafaxine" target="alprazolam">
+  <data key="d2">2</data>
+</edge>
+<edge source="venlafaxine" target="reboxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="venlafaxine" target="nefazodone">
+  <data key="d2">1</data>
+</edge>
+<edge source="venlafaxine" target="lorazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="venlafaxine" target="isocarboxazid">
+  <data key="d2">1</data>
+</edge>
+<edge source="venlafaxine" target="bupropion">
+  <data key="d2">1</data>
+</edge>
+<edge source="venlafaxine" target="fluoxetine">
+  <data key="d2">2</data>
+</edge>
+<edge source="venlafaxine" target="clonazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="venlafaxine" target="citalopram">
+  <data key="d2">2</data>
+</edge>
+<edge source="venlafaxine" target="paroxetine">
+  <data key="d2">4</data>
+</edge>
+<edge source="venlafaxine" target="buspirone">
+  <data key="d2">1</data>
+</edge>
+<edge source="venlafaxine" target="fluvoxamine">
+  <data key="d2">1</data>
+</edge>
+<edge source="venlafaxine" target="desvenlafaxine">
+  <data key="d2">1</data>
+</edge>
+<edge source="venlafaxine" target="mirtazapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="venlafaxine" target="olanzapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="ramelteon" target="zaleplon">
+  <data key="d2">1</data>
+</edge>
+<edge source="tramadol" target="naltrexone">
+  <data key="d2">1</data>
+</edge>
+<edge source="tramadol" target="butorphanol">
+  <data key="d2">1</data>
+</edge>
+<edge source="tramadol" target="ziconotide">
+  <data key="d2">1</data>
+</edge>
+<edge source="tramadol" target="caffeine">
+  <data key="d2">1</data>
+</edge>
+<edge source="tramadol" target="buprenorphine">
+  <data key="d2">1</data>
+</edge>
+<edge source="tramadol" target="dihydrocodeine">
+  <data key="d2">1</data>
+</edge>
+<edge source="tramadol" target="diflunisal">
+  <data key="d2">3</data>
+</edge>
+<edge source="tramadol" target="morphine">
+  <data key="d2">2</data>
+</edge>
+<edge source="ropinirole" target="pramipexole">
+  <data key="d2">2</data>
+</edge>
+<edge source="ropinirole" target="amantadine">
+  <data key="d2">1</data>
+</edge>
+<edge source="ropinirole" target="entacapone">
+  <data key="d2">1</data>
+</edge>
+<edge source="ropinirole" target="tolcapone">
+  <data key="d2">1</data>
+</edge>
+<edge source="ropinirole" target="rasagiline">
+  <data key="d2">1</data>
+</edge>
+<edge source="ropinirole" target="rotigotine">
+  <data key="d2">2</data>
+</edge>
+<edge source="ropinirole" target="gabapentin">
+  <data key="d2">1</data>
+</edge>
+<edge source="fosphenytoin" target="levetiracetam">
+  <data key="d2">1</data>
+</edge>
+<edge source="fosphenytoin" target="oxcarbazepine">
+  <data key="d2">1</data>
+</edge>
+<edge source="fosphenytoin" target="diazepam">
+  <data key="d2">2</data>
+</edge>
+<edge source="fosphenytoin" target="midazolam">
+  <data key="d2">1</data>
+</edge>
+<edge source="fosphenytoin" target="topiramate">
+  <data key="d2">1</data>
+</edge>
+<edge source="fosphenytoin" target="lamotrigine">
+  <data key="d2">2</data>
+</edge>
+<edge source="fosphenytoin" target="lorazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="fosphenytoin" target="vigabatrin">
+  <data key="d2">1</data>
+</edge>
+<edge source="fosphenytoin" target="tiagabine">
+  <data key="d2">1</data>
+</edge>
+<edge source="fosphenytoin" target="phenytoin">
+  <data key="d2">3</data>
+</edge>
+<edge source="fosphenytoin" target="carbamazepine">
+  <data key="d2">2</data>
+</edge>
+<edge source="atomoxetine" target="clonidine">
+  <data key="d2">1</data>
+</edge>
+<edge source="atomoxetine" target="methylphenidate">
+  <data key="d2">1</data>
+</edge>
+<edge source="duloxetine" target="mianserin">
+  <data key="d2">1</data>
+</edge>
+<edge source="duloxetine" target="agomelatine">
+  <data key="d2">1</data>
+</edge>
+<edge source="duloxetine" target="tranylcypromine">
+  <data key="d2">1</data>
+</edge>
+<edge source="duloxetine" target="trazodone">
+  <data key="d2">1</data>
+</edge>
+<edge source="duloxetine" target="alprazolam">
+  <data key="d2">1</data>
+</edge>
+<edge source="duloxetine" target="reboxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="duloxetine" target="milnacipran">
+  <data key="d2">1</data>
+</edge>
+<edge source="duloxetine" target="nefazodone">
+  <data key="d2">1</data>
+</edge>
+<edge source="duloxetine" target="isocarboxazid">
+  <data key="d2">1</data>
+</edge>
+<edge source="duloxetine" target="bupropion">
+  <data key="d2">1</data>
+</edge>
+<edge source="duloxetine" target="fluoxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="duloxetine" target="citalopram">
+  <data key="d2">2</data>
+</edge>
+<edge source="duloxetine" target="paroxetine">
+  <data key="d2">2</data>
+</edge>
+<edge source="duloxetine" target="buspirone">
+  <data key="d2">1</data>
+</edge>
+<edge source="duloxetine" target="desvenlafaxine">
+  <data key="d2">1</data>
+</edge>
+<edge source="duloxetine" target="mirtazapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="duloxetine" target="olanzapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="naltrexone" target="acamprosate">
+  <data key="d2">1</data>
+</edge>
+<edge source="naltrexone" target="oxycodone">
+  <data key="d2">1</data>
+</edge>
+<edge source="naltrexone" target="ziconotide">
+  <data key="d2">2</data>
+</edge>
+<edge source="naltrexone" target="buprenorphine">
+  <data key="d2">2</data>
+</edge>
+<edge source="naltrexone" target="clonidine">
+  <data key="d2">1</data>
+</edge>
+<edge source="naltrexone" target="bupropion">
+  <data key="d2">1</data>
+</edge>
+<edge source="naltrexone" target="diflunisal">
+  <data key="d2">1</data>
+</edge>
+<edge source="naltrexone" target="morphine">
+  <data key="d2">2</data>
+</edge>
+<edge source="temazepam" target="quazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="temazepam" target="triazolam">
+  <data key="d2">1</data>
+</edge>
+<edge source="temazepam" target="zopiclone">
+  <data key="d2">1</data>
+</edge>
+<edge source="temazepam" target="doxepin">
+  <data key="d2">1</data>
+</edge>
+<edge source="frovatriptan" target="almotriptan">
+  <data key="d2">1</data>
+</edge>
+<edge source="frovatriptan" target="sumatriptan">
+  <data key="d2">1</data>
+</edge>
+<edge source="frovatriptan" target="naratriptan">
+  <data key="d2">1</data>
+</edge>
+<edge source="frovatriptan" target="zolmitriptan">
+  <data key="d2">1</data>
+</edge>
+<edge source="frovatriptan" target="eletriptan">
+  <data key="d2">1</data>
+</edge>
+<edge source="frovatriptan" target="dihydroergotamine">
+  <data key="d2">1</data>
+</edge>
+<edge source="frovatriptan" target="caffeine">
+  <data key="d2">1</data>
+</edge>
+<edge source="frovatriptan" target="rizatriptan">
+  <data key="d2">1</data>
+</edge>
+<edge source="pramipexole" target="amantadine">
+  <data key="d2">1</data>
+</edge>
+<edge source="pramipexole" target="entacapone">
+  <data key="d2">1</data>
+</edge>
+<edge source="pramipexole" target="tolcapone">
+  <data key="d2">1</data>
+</edge>
+<edge source="pramipexole" target="rasagiline">
+  <data key="d2">1</data>
+</edge>
+<edge source="pramipexole" target="rotigotine">
+  <data key="d2">2</data>
+</edge>
+<edge source="pramipexole" target="gabapentin">
+  <data key="d2">1</data>
+</edge>
+<edge source="tolcapone" target="amantadine">
+  <data key="d2">1</data>
+</edge>
+<edge source="tolcapone" target="entacapone">
+  <data key="d2">1</data>
+</edge>
+<edge source="tolcapone" target="rasagiline">
+  <data key="d2">1</data>
+</edge>
+<edge source="tolcapone" target="rotigotine">
+  <data key="d2">1</data>
+</edge>
+<edge source="lidocaine" target="capsaicin">
+  <data key="d2">2</data>
+</edge>
+<edge source="lidocaine" target="doxepin">
+  <data key="d2">1</data>
+</edge>
+<edge source="lidocaine" target="bupivacaine">
+  <data key="d2">2</data>
+</edge>
+<edge source="lidocaine" target="gabapentin">
+  <data key="d2">1</data>
+</edge>
+<edge source="eletriptan" target="almotriptan">
+  <data key="d2">1</data>
+</edge>
+<edge source="eletriptan" target="sumatriptan">
+  <data key="d2">1</data>
+</edge>
+<edge source="eletriptan" target="naratriptan">
+  <data key="d2">1</data>
+</edge>
+<edge source="eletriptan" target="zolmitriptan">
+  <data key="d2">1</data>
+</edge>
+<edge source="eletriptan" target="dihydroergotamine">
+  <data key="d2">1</data>
+</edge>
+<edge source="eletriptan" target="caffeine">
+  <data key="d2">1</data>
+</edge>
+<edge source="eletriptan" target="rizatriptan">
+  <data key="d2">1</data>
+</edge>
+<edge source="pilocarpine" target="clonidine">
+  <data key="d2">1</data>
+</edge>
+<edge source="fluvoxamine" target="paroxetine">
+  <data key="d2">2</data>
+</edge>
+<edge source="fluvoxamine" target="sertraline">
+  <data key="d2">2</data>
+</edge>
+<edge source="fluvoxamine" target="clomipramine">
+  <data key="d2">1</data>
+</edge>
+<edge source="fluvoxamine" target="fluoxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="lamotrigine" target="ziprasidone">
+  <data key="d2">1</data>
+</edge>
+<edge source="lamotrigine" target="topiramate">
+  <data key="d2">3</data>
+</edge>
+<edge source="lamotrigine" target="risperidone">
+  <data key="d2">1</data>
+</edge>
+<edge source="lamotrigine" target="lorazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="lamotrigine" target="vigabatrin">
+  <data key="d2">1</data>
+</edge>
+<edge source="lamotrigine" target="tiagabine">
+  <data key="d2">2</data>
+</edge>
+<edge source="lamotrigine" target="phenytoin">
+  <data key="d2">6</data>
+</edge>
+<edge source="lamotrigine" target="clonazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="lamotrigine" target="levetiracetam">
+  <data key="d2">2</data>
+</edge>
+<edge source="lamotrigine" target="oxcarbazepine">
+  <data key="d2">2</data>
+</edge>
+<edge source="lamotrigine" target="diazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="lamotrigine" target="rufinamide">
+  <data key="d2">1</data>
+</edge>
+<edge source="lamotrigine" target="olanzapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="lamotrigine" target="aripiprazole">
+  <data key="d2">1</data>
+</edge>
+<edge source="lamotrigine" target="quetiapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="lamotrigine" target="carbamazepine">
+  <data key="d2">6</data>
+</edge>
+<edge source="bupivacaine" target="doxepin">
+  <data key="d2">1</data>
+</edge>
+<edge source="rivastigmine" target="galantamine">
+  <data key="d2">1</data>
+</edge>
+<edge source="rivastigmine" target="donepezil">
+  <data key="d2">1</data>
+</edge>
+<edge source="morphine" target="butorphanol">
+  <data key="d2">1</data>
+</edge>
+<edge source="morphine" target="oxycodone">
+  <data key="d2">2</data>
+</edge>
+<edge source="morphine" target="ziconotide">
+  <data key="d2">2</data>
+</edge>
+<edge source="morphine" target="buprenorphine">
+  <data key="d2">3</data>
+</edge>
+<edge source="morphine" target="clonidine">
+  <data key="d2">1</data>
+</edge>
+<edge source="morphine" target="diflunisal">
+  <data key="d2">2</data>
+</edge>
+<edge source="morphine" target="caffeine">
+  <data key="d2">1</data>
+</edge>
+<edge source="morphine" target="remifentanil">
+  <data key="d2">1</data>
+</edge>
+<edge source="morphine" target="dihydrocodeine">
+  <data key="d2">1</data>
+</edge>
+<edge source="reboxetine" target="mianserin">
+  <data key="d2">1</data>
+</edge>
+<edge source="reboxetine" target="agomelatine">
+  <data key="d2">1</data>
+</edge>
+<edge source="reboxetine" target="tranylcypromine">
+  <data key="d2">1</data>
+</edge>
+<edge source="reboxetine" target="trazodone">
+  <data key="d2">1</data>
+</edge>
+<edge source="reboxetine" target="nefazodone">
+  <data key="d2">1</data>
+</edge>
+<edge source="reboxetine" target="isocarboxazid">
+  <data key="d2">1</data>
+</edge>
+<edge source="reboxetine" target="bupropion">
+  <data key="d2">1</data>
+</edge>
+<edge source="reboxetine" target="fluoxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="reboxetine" target="citalopram">
+  <data key="d2">1</data>
+</edge>
+<edge source="reboxetine" target="paroxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="reboxetine" target="desvenlafaxine">
+  <data key="d2">1</data>
+</edge>
+<edge source="reboxetine" target="mirtazapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="reboxetine" target="olanzapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="topiramate" target="levetiracetam">
+  <data key="d2">2</data>
+</edge>
+<edge source="topiramate" target="oxcarbazepine">
+  <data key="d2">2</data>
+</edge>
+<edge source="topiramate" target="rufinamide">
+  <data key="d2">1</data>
+</edge>
+<edge source="topiramate" target="lorazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="topiramate" target="vigabatrin">
+  <data key="d2">1</data>
+</edge>
+<edge source="topiramate" target="tiagabine">
+  <data key="d2">2</data>
+</edge>
+<edge source="topiramate" target="phenytoin">
+  <data key="d2">4</data>
+</edge>
+<edge source="topiramate" target="carbamazepine">
+  <data key="d2">4</data>
+</edge>
+<edge source="topiramate" target="clonazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="clomipramine" target="fluoxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="clomipramine" target="sertraline">
+  <data key="d2">1</data>
+</edge>
+<edge source="clomipramine" target="paroxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="caffeine" target="almotriptan">
+  <data key="d2">1</data>
+</edge>
+<edge source="caffeine" target="sumatriptan">
+  <data key="d2">2</data>
+</edge>
+<edge source="caffeine" target="naratriptan">
+  <data key="d2">1</data>
+</edge>
+<edge source="caffeine" target="butorphanol">
+  <data key="d2">1</data>
+</edge>
+<edge source="caffeine" target="scopolamine">
+  <data key="d2">4</data>
+</edge>
+<edge source="caffeine" target="diflunisal">
+  <data key="d2">1</data>
+</edge>
+<edge source="caffeine" target="rizatriptan">
+  <data key="d2">1</data>
+</edge>
+<edge source="caffeine" target="diazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="caffeine" target="capsaicin">
+  <data key="d2">1</data>
+</edge>
+<edge source="caffeine" target="zolmitriptan">
+  <data key="d2">1</data>
+</edge>
+<edge source="caffeine" target="dihydroergotamine">
+  <data key="d2">3</data>
+</edge>
+<edge source="caffeine" target="dihydrocodeine">
+  <data key="d2">5</data>
+</edge>
+<edge source="buspirone" target="citalopram">
+  <data key="d2">1</data>
+</edge>
+<edge source="buspirone" target="paroxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="buspirone" target="alprazolam">
+  <data key="d2">1</data>
+</edge>
+<edge source="desvenlafaxine" target="mianserin">
+  <data key="d2">1</data>
+</edge>
+<edge source="desvenlafaxine" target="agomelatine">
+  <data key="d2">1</data>
+</edge>
+<edge source="desvenlafaxine" target="tranylcypromine">
+  <data key="d2">1</data>
+</edge>
+<edge source="desvenlafaxine" target="trazodone">
+  <data key="d2">1</data>
+</edge>
+<edge source="desvenlafaxine" target="nefazodone">
+  <data key="d2">1</data>
+</edge>
+<edge source="desvenlafaxine" target="isocarboxazid">
+  <data key="d2">1</data>
+</edge>
+<edge source="desvenlafaxine" target="bupropion">
+  <data key="d2">1</data>
+</edge>
+<edge source="desvenlafaxine" target="fluoxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="desvenlafaxine" target="citalopram">
+  <data key="d2">1</data>
+</edge>
+<edge source="desvenlafaxine" target="paroxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="desvenlafaxine" target="mirtazapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="desvenlafaxine" target="olanzapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="mirtazapine" target="mianserin">
+  <data key="d2">1</data>
+</edge>
+<edge source="mirtazapine" target="agomelatine">
+  <data key="d2">1</data>
+</edge>
+<edge source="mirtazapine" target="tranylcypromine">
+  <data key="d2">1</data>
+</edge>
+<edge source="mirtazapine" target="trazodone">
+  <data key="d2">1</data>
+</edge>
+<edge source="mirtazapine" target="nefazodone">
+  <data key="d2">1</data>
+</edge>
+<edge source="mirtazapine" target="isocarboxazid">
+  <data key="d2">1</data>
+</edge>
+<edge source="mirtazapine" target="bupropion">
+  <data key="d2">1</data>
+</edge>
+<edge source="mirtazapine" target="fluoxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="mirtazapine" target="citalopram">
+  <data key="d2">1</data>
+</edge>
+<edge source="mirtazapine" target="paroxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="mirtazapine" target="olanzapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="paliperidone" target="ziprasidone">
+  <data key="d2">1</data>
+</edge>
+<edge source="paliperidone" target="loxapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="paliperidone" target="risperidone">
+  <data key="d2">1</data>
+</edge>
+<edge source="paliperidone" target="olanzapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="paliperidone" target="aripiprazole">
+  <data key="d2">1</data>
+</edge>
+<edge source="paliperidone" target="quetiapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="paliperidone" target="haloperidol">
+  <data key="d2">2</data>
+</edge>
+<edge source="paliperidone" target="asenapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="gabapentin" target="capsaicin">
+  <data key="d2">1</data>
+</edge>
+<edge source="gabapentin" target="rotigotine">
+  <data key="d2">1</data>
+</edge>
+<edge source="amantadine" target="entacapone">
+  <data key="d2">1</data>
+</edge>
+<edge source="amantadine" target="rasagiline">
+  <data key="d2">1</data>
+</edge>
+<edge source="amantadine" target="rotigotine">
+  <data key="d2">1</data>
+</edge>
+<edge source="buprenorphine" target="oxycodone">
+  <data key="d2">2</data>
+</edge>
+<edge source="buprenorphine" target="ziconotide">
+  <data key="d2">2</data>
+</edge>
+<edge source="buprenorphine" target="remifentanil">
+  <data key="d2">1</data>
+</edge>
+<edge source="buprenorphine" target="clonidine">
+  <data key="d2">1</data>
+</edge>
+<edge source="buprenorphine" target="diflunisal">
+  <data key="d2">1</data>
+</edge>
+<edge source="bupropion" target="mianserin">
+  <data key="d2">1</data>
+</edge>
+<edge source="bupropion" target="agomelatine">
+  <data key="d2">1</data>
+</edge>
+<edge source="bupropion" target="tranylcypromine">
+  <data key="d2">1</data>
+</edge>
+<edge source="bupropion" target="trazodone">
+  <data key="d2">1</data>
+</edge>
+<edge source="bupropion" target="sertraline">
+  <data key="d2">1</data>
+</edge>
+<edge source="bupropion" target="maprotiline">
+  <data key="d2">1</data>
+</edge>
+<edge source="bupropion" target="nefazodone">
+  <data key="d2">1</data>
+</edge>
+<edge source="bupropion" target="isocarboxazid">
+  <data key="d2">1</data>
+</edge>
+<edge source="bupropion" target="nortriptyline">
+  <data key="d2">1</data>
+</edge>
+<edge source="bupropion" target="doxepin">
+  <data key="d2">1</data>
+</edge>
+<edge source="bupropion" target="fluoxetine">
+  <data key="d2">2</data>
+</edge>
+<edge source="bupropion" target="citalopram">
+  <data key="d2">2</data>
+</edge>
+<edge source="bupropion" target="amoxapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="bupropion" target="paroxetine">
+  <data key="d2">2</data>
+</edge>
+<edge source="bupropion" target="amitriptyline">
+  <data key="d2">1</data>
+</edge>
+<edge source="bupropion" target="nicotine">
+  <data key="d2">1</data>
+</edge>
+<edge source="bupropion" target="olanzapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="bupropion" target="imipramine">
+  <data key="d2">1</data>
+</edge>
+<edge source="asenapine" target="ziprasidone">
+  <data key="d2">3</data>
+</edge>
+<edge source="asenapine" target="quetiapine">
+  <data key="d2">2</data>
+</edge>
+<edge source="asenapine" target="risperidone">
+  <data key="d2">3</data>
+</edge>
+<edge source="asenapine" target="loxapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="asenapine" target="olanzapine">
+  <data key="d2">3</data>
+</edge>
+<edge source="asenapine" target="aripiprazole">
+  <data key="d2">3</data>
+</edge>
+<edge source="asenapine" target="haloperidol">
+  <data key="d2">1</data>
+</edge>
+<edge source="asenapine" target="carbamazepine">
+  <data key="d2">2</data>
+</edge>
+<edge source="modafinil" target="methylphenidate">
+  <data key="d2">1</data>
+</edge>
+<edge source="galantamine" target="donepezil">
+  <data key="d2">1</data>
+</edge>
+<edge source="rufinamide" target="lorazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="rufinamide" target="phenytoin">
+  <data key="d2">1</data>
+</edge>
+<edge source="rufinamide" target="carbamazepine">
+  <data key="d2">1</data>
+</edge>
+<edge source="rufinamide" target="clonazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="amitriptyline" target="citalopram">
+  <data key="d2">1</data>
+</edge>
+<edge source="amitriptyline" target="amoxapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="amitriptyline" target="paroxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="amitriptyline" target="sertraline">
+  <data key="d2">1</data>
+</edge>
+<edge source="amitriptyline" target="alprazolam">
+  <data key="d2">1</data>
+</edge>
+<edge source="amitriptyline" target="maprotiline">
+  <data key="d2">2</data>
+</edge>
+<edge source="amitriptyline" target="nortriptyline">
+  <data key="d2">1</data>
+</edge>
+<edge source="amitriptyline" target="doxepin">
+  <data key="d2">1</data>
+</edge>
+<edge source="amitriptyline" target="imipramine">
+  <data key="d2">1</data>
+</edge>
+<edge source="amitriptyline" target="fluoxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="remifentanil" target="oxycodone">
+  <data key="d2">1</data>
+</edge>
+<edge source="zolmitriptan" target="almotriptan">
+  <data key="d2">1</data>
+</edge>
+<edge source="zolmitriptan" target="sumatriptan">
+  <data key="d2">1</data>
+</edge>
+<edge source="zolmitriptan" target="naratriptan">
+  <data key="d2">1</data>
+</edge>
+<edge source="zolmitriptan" target="dihydroergotamine">
+  <data key="d2">1</data>
+</edge>
+<edge source="zolmitriptan" target="rizatriptan">
+  <data key="d2">1</data>
+</edge>
+<edge source="imipramine" target="citalopram">
+  <data key="d2">1</data>
+</edge>
+<edge source="imipramine" target="amoxapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="imipramine" target="paroxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="imipramine" target="sertraline">
+  <data key="d2">1</data>
+</edge>
+<edge source="imipramine" target="maprotiline">
+  <data key="d2">1</data>
+</edge>
+<edge source="imipramine" target="nortriptyline">
+  <data key="d2">1</data>
+</edge>
+<edge source="imipramine" target="doxepin">
+  <data key="d2">1</data>
+</edge>
+<edge source="imipramine" target="fluoxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="agomelatine" target="mianserin">
+  <data key="d2">1</data>
+</edge>
+<edge source="agomelatine" target="tranylcypromine">
+  <data key="d2">1</data>
+</edge>
+<edge source="agomelatine" target="trazodone">
+  <data key="d2">1</data>
+</edge>
+<edge source="agomelatine" target="nefazodone">
+  <data key="d2">1</data>
+</edge>
+<edge source="agomelatine" target="isocarboxazid">
+  <data key="d2">1</data>
+</edge>
+<edge source="agomelatine" target="fluoxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="agomelatine" target="citalopram">
+  <data key="d2">1</data>
+</edge>
+<edge source="agomelatine" target="paroxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="agomelatine" target="olanzapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="naratriptan" target="almotriptan">
+  <data key="d2">1</data>
+</edge>
+<edge source="naratriptan" target="sumatriptan">
+  <data key="d2">1</data>
+</edge>
+<edge source="naratriptan" target="dihydroergotamine">
+  <data key="d2">1</data>
+</edge>
+<edge source="naratriptan" target="rizatriptan">
+  <data key="d2">1</data>
+</edge>
+<edge source="rasagiline" target="entacapone">
+  <data key="d2">1</data>
+</edge>
+<edge source="rasagiline" target="rotigotine">
+  <data key="d2">1</data>
+</edge>
+<edge source="clonidine" target="oxycodone">
+  <data key="d2">1</data>
+</edge>
+<edge source="clonidine" target="ziconotide">
+  <data key="d2">1</data>
+</edge>
+<edge source="clonidine" target="methylphenidate">
+  <data key="d2">1</data>
+</edge>
+<edge source="isocarboxazid" target="mianserin">
+  <data key="d2">1</data>
+</edge>
+<edge source="isocarboxazid" target="tranylcypromine">
+  <data key="d2">1</data>
+</edge>
+<edge source="isocarboxazid" target="trazodone">
+  <data key="d2">1</data>
+</edge>
+<edge source="isocarboxazid" target="nefazodone">
+  <data key="d2">1</data>
+</edge>
+<edge source="isocarboxazid" target="fluoxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="isocarboxazid" target="citalopram">
+  <data key="d2">1</data>
+</edge>
+<edge source="isocarboxazid" target="paroxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="isocarboxazid" target="olanzapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="doxepin" target="quazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="doxepin" target="sertraline">
+  <data key="d2">1</data>
+</edge>
+<edge source="doxepin" target="alprazolam">
+  <data key="d2">1</data>
+</edge>
+<edge source="doxepin" target="maprotiline">
+  <data key="d2">1</data>
+</edge>
+<edge source="doxepin" target="lorazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="doxepin" target="nortriptyline">
+  <data key="d2">1</data>
+</edge>
+<edge source="doxepin" target="fluoxetine">
+  <data key="d2">2</data>
+</edge>
+<edge source="doxepin" target="citalopram">
+  <data key="d2">1</data>
+</edge>
+<edge source="doxepin" target="amoxapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="doxepin" target="diazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="doxepin" target="paroxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="doxepin" target="triazolam">
+  <data key="d2">1</data>
+</edge>
+<edge source="doxepin" target="midazolam">
+  <data key="d2">1</data>
+</edge>
+<edge source="doxepin" target="zopiclone">
+  <data key="d2">1</data>
+</edge>
+<edge source="doxepin" target="olanzapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="doxepin" target="quetiapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="amoxapine" target="citalopram">
+  <data key="d2">1</data>
+</edge>
+<edge source="amoxapine" target="paroxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="amoxapine" target="sertraline">
+  <data key="d2">1</data>
+</edge>
+<edge source="amoxapine" target="maprotiline">
+  <data key="d2">1</data>
+</edge>
+<edge source="amoxapine" target="nortriptyline">
+  <data key="d2">1</data>
+</edge>
+<edge source="amoxapine" target="fluoxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="triazolam" target="quazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="triazolam" target="zopiclone">
+  <data key="d2">1</data>
+</edge>
+<edge source="dihydrocodeine" target="butorphanol">
+  <data key="d2">1</data>
+</edge>
+<edge source="dihydrocodeine" target="scopolamine">
+  <data key="d2">5</data>
+</edge>
+<edge source="dihydrocodeine" target="diflunisal">
+  <data key="d2">1</data>
+</edge>
+<edge source="carbamazepine" target="ziprasidone">
+  <data key="d2">3</data>
+</edge>
+<edge source="carbamazepine" target="risperidone">
+  <data key="d2">3</data>
+</edge>
+<edge source="carbamazepine" target="lorazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="carbamazepine" target="vigabatrin">
+  <data key="d2">1</data>
+</edge>
+<edge source="carbamazepine" target="tiagabine">
+  <data key="d2">2</data>
+</edge>
+<edge source="carbamazepine" target="phenytoin">
+  <data key="d2">8</data>
+</edge>
+<edge source="carbamazepine" target="clonazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="carbamazepine" target="levetiracetam">
+  <data key="d2">2</data>
+</edge>
+<edge source="carbamazepine" target="oxcarbazepine">
+  <data key="d2">3</data>
+</edge>
+<edge source="carbamazepine" target="diazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="carbamazepine" target="olanzapine">
+  <data key="d2">3</data>
+</edge>
+<edge source="carbamazepine" target="aripiprazole">
+  <data key="d2">3</data>
+</edge>
+<edge source="carbamazepine" target="quetiapine">
+  <data key="d2">2</data>
+</edge>
+<edge source="almotriptan" target="sumatriptan">
+  <data key="d2">1</data>
+</edge>
+<edge source="almotriptan" target="dihydroergotamine">
+  <data key="d2">1</data>
+</edge>
+<edge source="almotriptan" target="rizatriptan">
+  <data key="d2">1</data>
+</edge>
+<edge source="sumatriptan" target="dihydroergotamine">
+  <data key="d2">2</data>
+</edge>
+<edge source="sumatriptan" target="rizatriptan">
+  <data key="d2">1</data>
+</edge>
+<edge source="mianserin" target="tranylcypromine">
+  <data key="d2">1</data>
+</edge>
+<edge source="mianserin" target="trazodone">
+  <data key="d2">1</data>
+</edge>
+<edge source="mianserin" target="nefazodone">
+  <data key="d2">1</data>
+</edge>
+<edge source="mianserin" target="fluoxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="mianserin" target="citalopram">
+  <data key="d2">1</data>
+</edge>
+<edge source="mianserin" target="paroxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="mianserin" target="olanzapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="trazodone" target="tranylcypromine">
+  <data key="d2">1</data>
+</edge>
+<edge source="trazodone" target="nefazodone">
+  <data key="d2">1</data>
+</edge>
+<edge source="trazodone" target="fluoxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="trazodone" target="citalopram">
+  <data key="d2">1</data>
+</edge>
+<edge source="trazodone" target="paroxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="trazodone" target="olanzapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="nefazodone" target="tranylcypromine">
+  <data key="d2">1</data>
+</edge>
+<edge source="nefazodone" target="fluoxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="nefazodone" target="citalopram">
+  <data key="d2">1</data>
+</edge>
+<edge source="nefazodone" target="paroxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="nefazodone" target="olanzapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="pimozide" target="haloperidol">
+  <data key="d2">1</data>
+</edge>
+<edge source="rotigotine" target="entacapone">
+  <data key="d2">1</data>
+</edge>
+<edge source="vigabatrin" target="levetiracetam">
+  <data key="d2">1</data>
+</edge>
+<edge source="vigabatrin" target="oxcarbazepine">
+  <data key="d2">1</data>
+</edge>
+<edge source="vigabatrin" target="tiagabine">
+  <data key="d2">1</data>
+</edge>
+<edge source="vigabatrin" target="phenytoin">
+  <data key="d2">1</data>
+</edge>
+<edge source="diflunisal" target="butorphanol">
+  <data key="d2">1</data>
+</edge>
+<edge source="diflunisal" target="ziconotide">
+  <data key="d2">1</data>
+</edge>
+<edge source="haloperidol" target="amisulpride">
+  <data key="d2">1</data>
+</edge>
+<edge source="haloperidol" target="ziprasidone">
+  <data key="d2">1</data>
+</edge>
+<edge source="haloperidol" target="loxapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="haloperidol" target="risperidone">
+  <data key="d2">1</data>
+</edge>
+<edge source="haloperidol" target="olanzapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="haloperidol" target="aripiprazole">
+  <data key="d2">1</data>
+</edge>
+<edge source="haloperidol" target="quetiapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="rizatriptan" target="dihydroergotamine">
+  <data key="d2">1</data>
+</edge>
+<edge source="levetiracetam" target="oxcarbazepine">
+  <data key="d2">2</data>
+</edge>
+<edge source="levetiracetam" target="tiagabine">
+  <data key="d2">2</data>
+</edge>
+<edge source="levetiracetam" target="phenytoin">
+  <data key="d2">2</data>
+</edge>
+<edge source="diazepam" target="alprazolam">
+  <data key="d2">1</data>
+</edge>
+<edge source="diazepam" target="midazolam">
+  <data key="d2">2</data>
+</edge>
+<edge source="diazepam" target="lorazepam">
+  <data key="d2">2</data>
+</edge>
+<edge source="diazepam" target="phenytoin">
+  <data key="d2">2</data>
+</edge>
+<edge source="paroxetine" target="tranylcypromine">
+  <data key="d2">1</data>
+</edge>
+<edge source="paroxetine" target="sertraline">
+  <data key="d2">6</data>
+</edge>
+<edge source="paroxetine" target="alprazolam">
+  <data key="d2">2</data>
+</edge>
+<edge source="paroxetine" target="maprotiline">
+  <data key="d2">1</data>
+</edge>
+<edge source="paroxetine" target="lorazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="paroxetine" target="nortriptyline">
+  <data key="d2">1</data>
+</edge>
+<edge source="paroxetine" target="fluoxetine">
+  <data key="d2">5</data>
+</edge>
+<edge source="paroxetine" target="clonazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="paroxetine" target="citalopram">
+  <data key="d2">3</data>
+</edge>
+<edge source="paroxetine" target="olanzapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="quetiapine" target="ziprasidone">
+  <data key="d2">3</data>
+</edge>
+<edge source="quetiapine" target="loxapine">
+  <data key="d2">2</data>
+</edge>
+<edge source="quetiapine" target="risperidone">
+  <data key="d2">3</data>
+</edge>
+<edge source="quetiapine" target="olanzapine">
+  <data key="d2">4</data>
+</edge>
+<edge source="quetiapine" target="aripiprazole">
+  <data key="d2">3</data>
+</edge>
+<edge source="quetiapine" target="phenytoin">
+  <data key="d2">1</data>
+</edge>
+<edge source="quetiapine" target="fluoxetine">
+  <data key="d2">1</data>
+</edge>
+<edge source="ziconotide" target="oxycodone">
+  <data key="d2">1</data>
+</edge>
+<edge source="risperidone" target="ziprasidone">
+  <data key="d2">4</data>
+</edge>
+<edge source="risperidone" target="loxapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="risperidone" target="olanzapine">
+  <data key="d2">4</data>
+</edge>
+<edge source="risperidone" target="aripiprazole">
+  <data key="d2">5</data>
+</edge>
+<edge source="risperidone" target="phenytoin">
+  <data key="d2">1</data>
+</edge>
+<edge source="tiagabine" target="oxcarbazepine">
+  <data key="d2">2</data>
+</edge>
+<edge source="tiagabine" target="phenytoin">
+  <data key="d2">2</data>
+</edge>
+<edge source="phenytoin" target="ziprasidone">
+  <data key="d2">1</data>
+</edge>
+<edge source="phenytoin" target="lorazepam">
+  <data key="d2">2</data>
+</edge>
+<edge source="phenytoin" target="clonazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="phenytoin" target="oxcarbazepine">
+  <data key="d2">3</data>
+</edge>
+<edge source="phenytoin" target="midazolam">
+  <data key="d2">1</data>
+</edge>
+<edge source="phenytoin" target="olanzapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="phenytoin" target="aripiprazole">
+  <data key="d2">1</data>
+</edge>
+<edge source="fluoxetine" target="tranylcypromine">
+  <data key="d2">1</data>
+</edge>
+<edge source="fluoxetine" target="sertraline">
+  <data key="d2">4</data>
+</edge>
+<edge source="fluoxetine" target="alprazolam">
+  <data key="d2">1</data>
+</edge>
+<edge source="fluoxetine" target="maprotiline">
+  <data key="d2">1</data>
+</edge>
+<edge source="fluoxetine" target="lorazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="fluoxetine" target="nortriptyline">
+  <data key="d2">1</data>
+</edge>
+<edge source="fluoxetine" target="clonazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="fluoxetine" target="citalopram">
+  <data key="d2">2</data>
+</edge>
+<edge source="fluoxetine" target="olanzapine">
+  <data key="d2">2</data>
+</edge>
+<edge source="clonazepam" target="sertraline">
+  <data key="d2">1</data>
+</edge>
+<edge source="clonazepam" target="alprazolam">
+  <data key="d2">1</data>
+</edge>
+<edge source="clonazepam" target="lorazepam">
+  <data key="d2">5</data>
+</edge>
+<edge source="aripiprazole" target="ziprasidone">
+  <data key="d2">4</data>
+</edge>
+<edge source="aripiprazole" target="loxapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="aripiprazole" target="olanzapine">
+  <data key="d2">4</data>
+</edge>
+<edge source="quazepam" target="zopiclone">
+  <data key="d2">1</data>
+</edge>
+<edge source="tranylcypromine" target="citalopram">
+  <data key="d2">1</data>
+</edge>
+<edge source="tranylcypromine" target="olanzapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="sertraline" target="alprazolam">
+  <data key="d2">1</data>
+</edge>
+<edge source="sertraline" target="maprotiline">
+  <data key="d2">1</data>
+</edge>
+<edge source="sertraline" target="lorazepam">
+  <data key="d2">1</data>
+</edge>
+<edge source="sertraline" target="nortriptyline">
+  <data key="d2">1</data>
+</edge>
+<edge source="sertraline" target="citalopram">
+  <data key="d2">1</data>
+</edge>
+<edge source="alprazolam" target="maprotiline">
+  <data key="d2">1</data>
+</edge>
+<edge source="alprazolam" target="lorazepam">
+  <data key="d2">2</data>
+</edge>
+<edge source="alprazolam" target="citalopram">
+  <data key="d2">1</data>
+</edge>
+<edge source="alprazolam" target="midazolam">
+  <data key="d2">1</data>
+</edge>
+<edge source="maprotiline" target="citalopram">
+  <data key="d2">1</data>
+</edge>
+<edge source="maprotiline" target="nortriptyline">
+  <data key="d2">1</data>
+</edge>
+<edge source="ziprasidone" target="loxapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="ziprasidone" target="olanzapine">
+  <data key="d2">4</data>
+</edge>
+<edge source="lorazepam" target="midazolam">
+  <data key="d2">2</data>
+</edge>
+<edge source="nortriptyline" target="citalopram">
+  <data key="d2">1</data>
+</edge>
+<edge source="citalopram" target="olanzapine">
+  <data key="d2">1</data>
+</edge>
+<edge source="loxapine" target="olanzapine">
+  <data key="d2">1</data>
+</edge>
+</graph></graphml>

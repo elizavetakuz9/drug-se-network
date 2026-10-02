@@ -1,0 +1,1356 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="node" attr.name="node_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="bipartite" attr.type="long"/>
+<graph edgedefault="undirected"><node id="entacapone">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="felbamate">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="fentanyl">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="fluoxetine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="fluvoxamine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="fosphenytoin">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="frovatriptan">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="gabapentin">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="galantamine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="almotriptan">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="haloperidol">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="alprazolam">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="hydromorphone">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="imipramine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="amantadine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="isocarboxazid">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="lamotrigine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="levetiracetam">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="lidocaine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="lorazepam">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="loxapine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="maprotiline">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="naltrexone">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="methylphenidate">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="amisulpride">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="mianserin">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="amitriptyline">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="midazolam">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="milnacipran">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="mirtazapine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="modafinil">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="morphine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="nalbuphine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="naratriptan">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="nefazodone">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="neostigmine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="amoxapine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="nicotine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="nortriptyline">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="olanzapine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="oxcarbazepine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="oxycodone">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="paroxetine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="pergolide">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="phenytoin">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="pilocarpine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="pimozide">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="pramipexole">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="pregabalin">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="apomorphine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="pyridostigmine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="quazepam">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="quetiapine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="ramelteon">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="reboxetine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="remifentanil">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="riluzole">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="risperidone">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="rivastigmine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="rizatriptan">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="ropinirole">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="rotigotine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="aripiprazole">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="scopolamine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="sertraline">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="sufentanil">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="sumatriptan">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="atomoxetine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="temazepam">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="tetrabenazine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="tiagabine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="tolcapone">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="topiramate">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="tramadol">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="tranylcypromine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="trazodone">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="triazolam">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="venlafaxine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="vigabatrin">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="zaleplon">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="ziprasidone">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="zolmitriptan">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="zolpidem">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="zonisamide">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="zopiclone">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="ziconotide">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="capsaicin">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="betahistine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="rasagiline">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="rufinamide">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="acamprosate">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="bromocriptine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="asenapine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="paliperidone">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="tapentadol">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="bupivacaine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="buprenorphine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="bupropion">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="buspirone">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="desvenlafaxine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="butorphanol">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="cabergoline">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="caffeine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="carbamazepine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="citalopram">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="clobazam">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="clomipramine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="clonazepam">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="clonidine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="diazepam">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="diflunisal">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="dihydrocodeine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="dihydroergotamine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="donepezil">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="doxepin">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="duloxetine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="agomelatine">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="eletriptan">
+  <data key="d0">0</data>
+  <data key="d1">drug</data>
+</node>
+<node id="Parkinson Disease">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Simple Partial Seizures">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Lennox-Gastaut syndrome">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Epilepsy">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Postoperative Pain, Acute">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Pain">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Breakthrough cancer pain">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Depressive disorder">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Bulimia Nervosa">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Obsessive-Compulsive Disorder">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Major Depressive Disorder">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Premenstrual Dysphoric Disorder">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Panic Disorder">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Depression, Bipolar">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Phobia, Social">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Status Epilepticus">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Epilepsy characterized by intractable complex partial seizures">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Migraine Disorders">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Postherpetic neuralgia">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Restless Legs Syndrome">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Alzheimer's Disease">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Gilles de la Tourette syndrome">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Schizophrenia">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Psychotic Disorders">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Chronic schizophrenia">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Anxiety">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Mixed anxiety and depressive disorder">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Generalized Anxiety Disorder">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Common Cold">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Coughing">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Severe pain">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Bedwetting">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Extrapyramidal Disorders">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Parkinsonian Disorders">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Influenza due to Influenza A virus">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Parkinson Disease, Postencephalitic">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Tonic - clonic seizures">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Bipolar disorder in remission">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Premature Ejaculation">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Ventricular arrhythmia">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Scabies &lt;infestation&gt;">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Infestation by Phthirus pubis">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Pruritus Ani">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Pruritus">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Skin irritation">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Hemorrhoids">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Urethritis">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Pediculus capitis infestation">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Neuralgia">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Absence Epilepsy">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Myoclonic Epilepsy">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Atonic seizure">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Bipolar Disorder">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Therapeutic opioid induced constipation">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Chronic pain">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Alcoholic Intoxication, Chronic">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Obesity">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Attention deficit hyperactivity disorder">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Narcolepsy">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Postoperative Nausea and Vomiting">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Agitation">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Fibromyalgia">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Hypersomnia">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Diarrhea">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Labor Pain">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Myasthenia Gravis">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Pellagra">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Nicotine Dependence">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Mixed bipolar I disorder">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Bipolar affective disorder, current episode manic">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Epilepsies, Partial">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Post-Traumatic Stress Disorder">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Hot flushes">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Motor cortex epilepsy">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Tonic-Clonic Epilepsy">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Xerostomia">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Glaucoma, Open-Angle">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Ocular Hypertension">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Diabetic peripheral neuropathy">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Sleeplessness">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Initial insomnia">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Amyotrophic Lateral Sclerosis">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Autistic Disorder">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Dementia associated with Parkinson's Disease">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Rhinorrhea">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Posterior synechiae">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Rhinitis, Vasomotor">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Uveitis">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Peptic Ulcer">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Mydriasis">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Irritable Bowel Syndrome">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Nasal congestion (finding)">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Cycloplegia">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Allergic rhinitis (disorder)">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Iridocyclitis">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Motion Sickness">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Pain, Postoperative">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Cluster Headache">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Huntington Disease">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Degenerative polyarthritis">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="West Syndrome">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Sleep Initiation and Maintenance Disorders">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Lewy Body Disease">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Pain in spine">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Back Pain">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Meniere Disease">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Acromegaly">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Hyperprolactinemia">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Schizoaffective Disorder">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Opiate Addiction">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Seasonal Affective Disorder">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Headache Disorders">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Vascular Headaches">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Arthralgia">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Influenza-like symptoms">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Muscle Spasticity">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Sinus headache">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Dysmenorrhea">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Tension Headache">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Apnea in newborn">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Glossopharyngeal Neuralgia">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Trigeminal Neuralgia">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Hypertensive disease">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Alcohol Withdrawal Delirium">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Alcohol withdrawal syndrome">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Tetanus">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Rheumatoid Arthritis">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Rhinitis">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Severe major depression with psychotic features">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Dermatitis, Atopic">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Lichen Simplex Chronicus">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<node id="Female stress incontinence">
+  <data key="d0">1</data>
+  <data key="d1">indication</data>
+</node>
+<edge source="entacapone" target="Parkinson Disease"/>
+<edge source="felbamate" target="Simple Partial Seizures"/>
+<edge source="felbamate" target="Lennox-Gastaut syndrome"/>
+<edge source="felbamate" target="Epilepsy"/>
+<edge source="fentanyl" target="Postoperative Pain, Acute"/>
+<edge source="fentanyl" target="Pain"/>
+<edge source="fentanyl" target="Breakthrough cancer pain"/>
+<edge source="fluoxetine" target="Depressive disorder"/>
+<edge source="fluoxetine" target="Bulimia Nervosa"/>
+<edge source="fluoxetine" target="Obsessive-Compulsive Disorder"/>
+<edge source="fluoxetine" target="Major Depressive Disorder"/>
+<edge source="fluoxetine" target="Premenstrual Dysphoric Disorder"/>
+<edge source="fluoxetine" target="Panic Disorder"/>
+<edge source="fluoxetine" target="Depression, Bipolar"/>
+<edge source="fluvoxamine" target="Obsessive-Compulsive Disorder"/>
+<edge source="fluvoxamine" target="Phobia, Social"/>
+<edge source="fosphenytoin" target="Status Epilepticus"/>
+<edge source="fosphenytoin" target="Epilepsy characterized by intractable complex partial seizures"/>
+<edge source="fosphenytoin" target="Epilepsy"/>
+<edge source="frovatriptan" target="Migraine Disorders"/>
+<edge source="gabapentin" target="Postherpetic neuralgia"/>
+<edge source="gabapentin" target="Restless Legs Syndrome"/>
+<edge source="galantamine" target="Alzheimer's Disease"/>
+<edge source="almotriptan" target="Migraine Disorders"/>
+<edge source="haloperidol" target="Gilles de la Tourette syndrome"/>
+<edge source="haloperidol" target="Schizophrenia"/>
+<edge source="haloperidol" target="Psychotic Disorders"/>
+<edge source="haloperidol" target="Chronic schizophrenia"/>
+<edge source="alprazolam" target="Anxiety"/>
+<edge source="alprazolam" target="Mixed anxiety and depressive disorder"/>
+<edge source="alprazolam" target="Generalized Anxiety Disorder"/>
+<edge source="alprazolam" target="Panic Disorder"/>
+<edge source="hydromorphone" target="Common Cold"/>
+<edge source="hydromorphone" target="Coughing"/>
+<edge source="hydromorphone" target="Postoperative Pain, Acute"/>
+<edge source="hydromorphone" target="Pain"/>
+<edge source="hydromorphone" target="Severe pain"/>
+<edge source="imipramine" target="Depressive disorder"/>
+<edge source="imipramine" target="Bedwetting"/>
+<edge source="amantadine" target="Extrapyramidal Disorders"/>
+<edge source="amantadine" target="Parkinson Disease"/>
+<edge source="amantadine" target="Parkinsonian Disorders"/>
+<edge source="amantadine" target="Influenza due to Influenza A virus"/>
+<edge source="amantadine" target="Parkinson Disease, Postencephalitic"/>
+<edge source="isocarboxazid" target="Major Depressive Disorder"/>
+<edge source="lamotrigine" target="Epilepsy"/>
+<edge source="lamotrigine" target="Lennox-Gastaut syndrome"/>
+<edge source="lamotrigine" target="Simple Partial Seizures"/>
+<edge source="lamotrigine" target="Epilepsy characterized by intractable complex partial seizures"/>
+<edge source="lamotrigine" target="Tonic - clonic seizures"/>
+<edge source="lamotrigine" target="Bipolar disorder in remission"/>
+<edge source="levetiracetam" target="Simple Partial Seizures"/>
+<edge source="levetiracetam" target="Epilepsy characterized by intractable complex partial seizures"/>
+<edge source="lidocaine" target="Premature Ejaculation"/>
+<edge source="lidocaine" target="Ventricular arrhythmia"/>
+<edge source="lidocaine" target="Scabies &lt;infestation&gt;"/>
+<edge source="lidocaine" target="Infestation by Phthirus pubis"/>
+<edge source="lidocaine" target="Pruritus Ani"/>
+<edge source="lidocaine" target="Pruritus"/>
+<edge source="lidocaine" target="Postherpetic neuralgia"/>
+<edge source="lidocaine" target="Skin irritation"/>
+<edge source="lidocaine" target="Hemorrhoids"/>
+<edge source="lidocaine" target="Urethritis"/>
+<edge source="lidocaine" target="Pediculus capitis infestation"/>
+<edge source="lidocaine" target="Neuralgia"/>
+<edge source="lorazepam" target="Lennox-Gastaut syndrome"/>
+<edge source="lorazepam" target="Absence Epilepsy"/>
+<edge source="lorazepam" target="Myoclonic Epilepsy"/>
+<edge source="lorazepam" target="Atonic seizure"/>
+<edge source="lorazepam" target="Anxiety"/>
+<edge source="lorazepam" target="Status Epilepticus"/>
+<edge source="lorazepam" target="Panic Disorder"/>
+<edge source="loxapine" target="Schizophrenia"/>
+<edge source="loxapine" target="Bipolar Disorder"/>
+<edge source="maprotiline" target="Mixed anxiety and depressive disorder"/>
+<edge source="maprotiline" target="Depressive disorder"/>
+<edge source="naltrexone" target="Therapeutic opioid induced constipation"/>
+<edge source="naltrexone" target="Chronic pain"/>
+<edge source="naltrexone" target="Alcoholic Intoxication, Chronic"/>
+<edge source="naltrexone" target="Severe pain"/>
+<edge source="naltrexone" target="Obesity"/>
+<edge source="methylphenidate" target="Attention deficit hyperactivity disorder"/>
+<edge source="methylphenidate" target="Narcolepsy"/>
+<edge source="amisulpride" target="Chronic schizophrenia"/>
+<edge source="amisulpride" target="Postoperative Nausea and Vomiting"/>
+<edge source="mianserin" target="Major Depressive Disorder"/>
+<edge source="amitriptyline" target="Mixed anxiety and depressive disorder"/>
+<edge source="amitriptyline" target="Depressive disorder"/>
+<edge source="midazolam" target="Agitation"/>
+<edge source="midazolam" target="Status Epilepticus"/>
+<edge source="midazolam" target="Anxiety"/>
+<edge source="milnacipran" target="Fibromyalgia"/>
+<edge source="mirtazapine" target="Major Depressive Disorder"/>
+<edge source="modafinil" target="Narcolepsy"/>
+<edge source="modafinil" target="Hypersomnia"/>
+<edge source="morphine" target="Chronic pain"/>
+<edge source="morphine" target="Postoperative Pain, Acute"/>
+<edge source="morphine" target="Pain"/>
+<edge source="morphine" target="Severe pain"/>
+<edge source="morphine" target="Diarrhea"/>
+<edge source="nalbuphine" target="Pain"/>
+<edge source="nalbuphine" target="Labor Pain"/>
+<edge source="naratriptan" target="Migraine Disorders"/>
+<edge source="nefazodone" target="Major Depressive Disorder"/>
+<edge source="neostigmine" target="Myasthenia Gravis"/>
+<edge source="amoxapine" target="Depressive disorder"/>
+<edge source="nicotine" target="Pellagra"/>
+<edge source="nicotine" target="Nicotine Dependence"/>
+<edge source="nortriptyline" target="Depressive disorder"/>
+<edge source="olanzapine" target="Depression, Bipolar"/>
+<edge source="olanzapine" target="Bipolar disorder in remission"/>
+<edge source="olanzapine" target="Major Depressive Disorder"/>
+<edge source="olanzapine" target="Mixed bipolar I disorder"/>
+<edge source="olanzapine" target="Bipolar affective disorder, current episode manic"/>
+<edge source="olanzapine" target="Schizophrenia"/>
+<edge source="oxcarbazepine" target="Epilepsy characterized by intractable complex partial seizures"/>
+<edge source="oxcarbazepine" target="Epilepsies, Partial"/>
+<edge source="oxcarbazepine" target="Simple Partial Seizures"/>
+<edge source="oxycodone" target="Postoperative Pain, Acute"/>
+<edge source="oxycodone" target="Severe pain"/>
+<edge source="paroxetine" target="Major Depressive Disorder"/>
+<edge source="paroxetine" target="Obsessive-Compulsive Disorder"/>
+<edge source="paroxetine" target="Panic Disorder"/>
+<edge source="paroxetine" target="Phobia, Social"/>
+<edge source="paroxetine" target="Post-Traumatic Stress Disorder"/>
+<edge source="paroxetine" target="Premenstrual Dysphoric Disorder"/>
+<edge source="paroxetine" target="Generalized Anxiety Disorder"/>
+<edge source="paroxetine" target="Depressive disorder"/>
+<edge source="paroxetine" target="Hot flushes"/>
+<edge source="pergolide" target="Parkinsonian Disorders"/>
+<edge source="phenytoin" target="Motor cortex epilepsy"/>
+<edge source="phenytoin" target="Epilepsies, Partial"/>
+<edge source="phenytoin" target="Tonic - clonic seizures"/>
+<edge source="phenytoin" target="Lennox-Gastaut syndrome"/>
+<edge source="phenytoin" target="Status Epilepticus"/>
+<edge source="phenytoin" target="Tonic-Clonic Epilepsy"/>
+<edge source="phenytoin" target="Epilepsy"/>
+<edge source="phenytoin" target="Bipolar disorder in remission"/>
+<edge source="phenytoin" target="Simple Partial Seizures"/>
+<edge source="phenytoin" target="Epilepsy characterized by intractable complex partial seizures"/>
+<edge source="pilocarpine" target="Xerostomia"/>
+<edge source="pilocarpine" target="Glaucoma, Open-Angle"/>
+<edge source="pilocarpine" target="Ocular Hypertension"/>
+<edge source="pimozide" target="Gilles de la Tourette syndrome"/>
+<edge source="pramipexole" target="Restless Legs Syndrome"/>
+<edge source="pramipexole" target="Parkinson Disease"/>
+<edge source="pregabalin" target="Generalized Anxiety Disorder"/>
+<edge source="pregabalin" target="Diabetic peripheral neuropathy"/>
+<edge source="pregabalin" target="Fibromyalgia"/>
+<edge source="pregabalin" target="Postherpetic neuralgia"/>
+<edge source="apomorphine" target="Parkinson Disease"/>
+<edge source="pyridostigmine" target="Myasthenia Gravis"/>
+<edge source="quazepam" target="Sleeplessness"/>
+<edge source="quetiapine" target="Schizophrenia"/>
+<edge source="quetiapine" target="Depression, Bipolar"/>
+<edge source="quetiapine" target="Bipolar Disorder"/>
+<edge source="quetiapine" target="Bipolar affective disorder, current episode manic"/>
+<edge source="quetiapine" target="Bipolar disorder in remission"/>
+<edge source="ramelteon" target="Initial insomnia"/>
+<edge source="reboxetine" target="Major Depressive Disorder"/>
+<edge source="remifentanil" target="Postoperative Pain, Acute"/>
+<edge source="riluzole" target="Amyotrophic Lateral Sclerosis"/>
+<edge source="risperidone" target="Schizophrenia"/>
+<edge source="risperidone" target="Bipolar disorder in remission"/>
+<edge source="risperidone" target="Autistic Disorder"/>
+<edge source="risperidone" target="Mixed bipolar I disorder"/>
+<edge source="risperidone" target="Bipolar affective disorder, current episode manic"/>
+<edge source="rivastigmine" target="Alzheimer's Disease"/>
+<edge source="rivastigmine" target="Dementia associated with Parkinson's Disease"/>
+<edge source="rizatriptan" target="Migraine Disorders"/>
+<edge source="ropinirole" target="Parkinson Disease"/>
+<edge source="ropinirole" target="Restless Legs Syndrome"/>
+<edge source="rotigotine" target="Restless Legs Syndrome"/>
+<edge source="rotigotine" target="Parkinson Disease"/>
+<edge source="aripiprazole" target="Bipolar disorder in remission"/>
+<edge source="aripiprazole" target="Autistic Disorder"/>
+<edge source="aripiprazole" target="Mixed bipolar I disorder"/>
+<edge source="aripiprazole" target="Schizophrenia"/>
+<edge source="aripiprazole" target="Bipolar affective disorder, current episode manic"/>
+<edge source="scopolamine" target="Rhinorrhea"/>
+<edge source="scopolamine" target="Posterior synechiae"/>
+<edge source="scopolamine" target="Rhinitis, Vasomotor"/>
+<edge source="scopolamine" target="Uveitis"/>
+<edge source="scopolamine" target="Peptic Ulcer"/>
+<edge source="scopolamine" target="Mydriasis"/>
+<edge source="scopolamine" target="Irritable Bowel Syndrome"/>
+<edge source="scopolamine" target="Nasal congestion (finding)"/>
+<edge source="scopolamine" target="Cycloplegia"/>
+<edge source="scopolamine" target="Allergic rhinitis (disorder)"/>
+<edge source="scopolamine" target="Coughing"/>
+<edge source="scopolamine" target="Iridocyclitis"/>
+<edge source="scopolamine" target="Motion Sickness"/>
+<edge source="scopolamine" target="Common Cold"/>
+<edge source="sertraline" target="Premenstrual Dysphoric Disorder"/>
+<edge source="sertraline" target="Depressive disorder"/>
+<edge source="sertraline" target="Phobia, Social"/>
+<edge source="sertraline" target="Obsessive-Compulsive Disorder"/>
+<edge source="sertraline" target="Panic Disorder"/>
+<edge source="sertraline" target="Post-Traumatic Stress Disorder"/>
+<edge source="sufentanil" target="Pain, Postoperative"/>
+<edge source="sumatriptan" target="Migraine Disorders"/>
+<edge source="sumatriptan" target="Cluster Headache"/>
+<edge source="atomoxetine" target="Attention deficit hyperactivity disorder"/>
+<edge source="temazepam" target="Sleeplessness"/>
+<edge source="tetrabenazine" target="Huntington Disease"/>
+<edge source="tiagabine" target="Epilepsy characterized by intractable complex partial seizures"/>
+<edge source="tiagabine" target="Simple Partial Seizures"/>
+<edge source="tolcapone" target="Parkinson Disease"/>
+<edge source="topiramate" target="Tonic-Clonic Epilepsy"/>
+<edge source="topiramate" target="Epilepsy characterized by intractable complex partial seizures"/>
+<edge source="topiramate" target="Lennox-Gastaut syndrome"/>
+<edge source="topiramate" target="Simple Partial Seizures"/>
+<edge source="tramadol" target="Chronic pain"/>
+<edge source="tramadol" target="Degenerative polyarthritis"/>
+<edge source="tramadol" target="Pain"/>
+<edge source="tranylcypromine" target="Major Depressive Disorder"/>
+<edge source="trazodone" target="Major Depressive Disorder"/>
+<edge source="triazolam" target="Sleeplessness"/>
+<edge source="venlafaxine" target="Phobia, Social"/>
+<edge source="venlafaxine" target="Major Depressive Disorder"/>
+<edge source="venlafaxine" target="Generalized Anxiety Disorder"/>
+<edge source="venlafaxine" target="Panic Disorder"/>
+<edge source="vigabatrin" target="Epilepsy characterized by intractable complex partial seizures"/>
+<edge source="vigabatrin" target="West Syndrome"/>
+<edge source="zaleplon" target="Sleep Initiation and Maintenance Disorders"/>
+<edge source="zaleplon" target="Initial insomnia"/>
+<edge source="ziprasidone" target="Bipolar disorder in remission"/>
+<edge source="ziprasidone" target="Schizophrenia"/>
+<edge source="ziprasidone" target="Mixed bipolar I disorder"/>
+<edge source="ziprasidone" target="Bipolar affective disorder, current episode manic"/>
+<edge source="zolmitriptan" target="Migraine Disorders"/>
+<edge source="zolpidem" target="Sleeplessness"/>
+<edge source="zolpidem" target="Initial insomnia"/>
+<edge source="zonisamide" target="Lewy Body Disease"/>
+<edge source="zopiclone" target="Sleeplessness"/>
+<edge source="ziconotide" target="Pain in spine"/>
+<edge source="ziconotide" target="Chronic pain"/>
+<edge source="ziconotide" target="Severe pain"/>
+<edge source="capsaicin" target="Postherpetic neuralgia"/>
+<edge source="capsaicin" target="Neuralgia"/>
+<edge source="capsaicin" target="Back Pain"/>
+<edge source="betahistine" target="Meniere Disease"/>
+<edge source="rasagiline" target="Parkinson Disease"/>
+<edge source="rufinamide" target="Lennox-Gastaut syndrome"/>
+<edge source="acamprosate" target="Alcoholic Intoxication, Chronic"/>
+<edge source="bromocriptine" target="Parkinson Disease, Postencephalitic"/>
+<edge source="bromocriptine" target="Acromegaly"/>
+<edge source="bromocriptine" target="Parkinson Disease"/>
+<edge source="bromocriptine" target="Hyperprolactinemia"/>
+<edge source="asenapine" target="Schizophrenia"/>
+<edge source="asenapine" target="Mixed bipolar I disorder"/>
+<edge source="asenapine" target="Bipolar affective disorder, current episode manic"/>
+<edge source="paliperidone" target="Schizoaffective Disorder"/>
+<edge source="paliperidone" target="Schizophrenia"/>
+<edge source="paliperidone" target="Psychotic Disorders"/>
+<edge source="tapentadol" target="Pain"/>
+<edge source="bupivacaine" target="Skin irritation"/>
+<edge source="bupivacaine" target="Pruritus"/>
+<edge source="buprenorphine" target="Opiate Addiction"/>
+<edge source="buprenorphine" target="Chronic pain"/>
+<edge source="buprenorphine" target="Postoperative Pain, Acute"/>
+<edge source="buprenorphine" target="Severe pain"/>
+<edge source="bupropion" target="Nicotine Dependence"/>
+<edge source="bupropion" target="Depressive disorder"/>
+<edge source="bupropion" target="Major Depressive Disorder"/>
+<edge source="bupropion" target="Seasonal Affective Disorder"/>
+<edge source="bupropion" target="Obesity"/>
+<edge source="buspirone" target="Generalized Anxiety Disorder"/>
+<edge source="desvenlafaxine" target="Major Depressive Disorder"/>
+<edge source="butorphanol" target="Pain"/>
+<edge source="butorphanol" target="Labor Pain"/>
+<edge source="cabergoline" target="Hyperprolactinemia"/>
+<edge source="caffeine" target="Headache Disorders"/>
+<edge source="caffeine" target="Allergic rhinitis (disorder)"/>
+<edge source="caffeine" target="Pain"/>
+<edge source="caffeine" target="Vascular Headaches"/>
+<edge source="caffeine" target="Back Pain"/>
+<edge source="caffeine" target="Cluster Headache"/>
+<edge source="caffeine" target="Arthralgia"/>
+<edge source="caffeine" target="Influenza-like symptoms"/>
+<edge source="caffeine" target="Common Cold"/>
+<edge source="caffeine" target="Muscle Spasticity"/>
+<edge source="caffeine" target="Rhinorrhea"/>
+<edge source="caffeine" target="Nasal congestion (finding)"/>
+<edge source="caffeine" target="Sinus headache"/>
+<edge source="caffeine" target="Dysmenorrhea"/>
+<edge source="caffeine" target="Tension Headache"/>
+<edge source="caffeine" target="Migraine Disorders"/>
+<edge source="caffeine" target="Apnea in newborn"/>
+<edge source="carbamazepine" target="Epilepsy"/>
+<edge source="carbamazepine" target="Tonic - clonic seizures"/>
+<edge source="carbamazepine" target="Epilepsy characterized by intractable complex partial seizures"/>
+<edge source="carbamazepine" target="Simple Partial Seizures"/>
+<edge source="carbamazepine" target="Lennox-Gastaut syndrome"/>
+<edge source="carbamazepine" target="Glossopharyngeal Neuralgia"/>
+<edge source="carbamazepine" target="Mixed bipolar I disorder"/>
+<edge source="carbamazepine" target="Tonic-Clonic Epilepsy"/>
+<edge source="carbamazepine" target="Bipolar affective disorder, current episode manic"/>
+<edge source="carbamazepine" target="Bipolar disorder in remission"/>
+<edge source="carbamazepine" target="Epilepsies, Partial"/>
+<edge source="carbamazepine" target="Trigeminal Neuralgia"/>
+<edge source="citalopram" target="Generalized Anxiety Disorder"/>
+<edge source="citalopram" target="Major Depressive Disorder"/>
+<edge source="citalopram" target="Depressive disorder"/>
+<edge source="clobazam" target="Lennox-Gastaut syndrome"/>
+<edge source="clomipramine" target="Obsessive-Compulsive Disorder"/>
+<edge source="clonazepam" target="Atonic seizure"/>
+<edge source="clonazepam" target="Panic Disorder"/>
+<edge source="clonazepam" target="Absence Epilepsy"/>
+<edge source="clonazepam" target="Lennox-Gastaut syndrome"/>
+<edge source="clonazepam" target="Myoclonic Epilepsy"/>
+<edge source="clonidine" target="Glaucoma, Open-Angle"/>
+<edge source="clonidine" target="Attention deficit hyperactivity disorder"/>
+<edge source="clonidine" target="Hypertensive disease"/>
+<edge source="clonidine" target="Severe pain"/>
+<edge source="diazepam" target="Alcohol Withdrawal Delirium"/>
+<edge source="diazepam" target="Status Epilepticus"/>
+<edge source="diazepam" target="Anxiety"/>
+<edge source="diazepam" target="Epilepsy"/>
+<edge source="diazepam" target="Alcohol withdrawal syndrome"/>
+<edge source="diazepam" target="Muscle Spasticity"/>
+<edge source="diazepam" target="Tetanus"/>
+<edge source="diflunisal" target="Degenerative polyarthritis"/>
+<edge source="diflunisal" target="Rheumatoid Arthritis"/>
+<edge source="diflunisal" target="Pain"/>
+<edge source="diflunisal" target="Chronic pain"/>
+<edge source="dihydrocodeine" target="Allergic rhinitis (disorder)"/>
+<edge source="dihydrocodeine" target="Rhinitis"/>
+<edge source="dihydrocodeine" target="Common Cold"/>
+<edge source="dihydrocodeine" target="Rhinorrhea"/>
+<edge source="dihydrocodeine" target="Nasal congestion (finding)"/>
+<edge source="dihydrocodeine" target="Pain"/>
+<edge source="dihydrocodeine" target="Coughing"/>
+<edge source="dihydroergotamine" target="Cluster Headache"/>
+<edge source="dihydroergotamine" target="Vascular Headaches"/>
+<edge source="dihydroergotamine" target="Migraine Disorders"/>
+<edge source="donepezil" target="Alzheimer's Disease"/>
+<edge source="doxepin" target="Depression, Bipolar"/>
+<edge source="doxepin" target="Severe major depression with psychotic features"/>
+<edge source="doxepin" target="Anxiety"/>
+<edge source="doxepin" target="Depressive disorder"/>
+<edge source="doxepin" target="Sleeplessness"/>
+<edge source="doxepin" target="Pruritus"/>
+<edge source="doxepin" target="Dermatitis, Atopic"/>
+<edge source="doxepin" target="Lichen Simplex Chronicus"/>
+<edge source="duloxetine" target="Female stress incontinence"/>
+<edge source="duloxetine" target="Generalized Anxiety Disorder"/>
+<edge source="duloxetine" target="Diabetic peripheral neuropathy"/>
+<edge source="duloxetine" target="Fibromyalgia"/>
+<edge source="duloxetine" target="Major Depressive Disorder"/>
+<edge source="agomelatine" target="Major Depressive Disorder"/>
+<edge source="eletriptan" target="Migraine Disorders"/>
+</graph></graphml>
